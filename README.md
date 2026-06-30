@@ -33,4 +33,4 @@ Tooling      Git · GitHub · VS Code · Playwright · Cheerio · Cron jobs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulrasheeda-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/abdulrasheeda)
 [![GitHub](https://img.shields.io/badge/GitHub-bigphysiology--coder-181717?style=flat&logo=github)](https://github.com/bigphysiology-coder)
-[![Email](https://img.shields.io/badge/Email-abdulrasheedabdulrazak4@gmail.com-EA4335?style=flat&logo=gmail)](mailto:bigphysiology@gmail.com)
+[![Email](https://img.shields.io/badge/Email-bigphysiology@gmail.com-EA4335?style=flat&logo=gmail)](mailto:bigphysiology@gmail.com)
