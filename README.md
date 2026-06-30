@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Abdulrasheed 👋
 
-<!--
-**bigphysiology-coder/bigphysiology-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A Full Stack Software Engineer,** I build production-grade web applications from architecture to deployment.  
+Based in Nigeria · Open to Remote · Available for freelance & contracts
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+I specialize in the **PERN stack** (PostgreSQL · Express · React · Node.js), with a focus on:
+
+- Scalable system architecture & RESTful API design
+- Authentication systems (JWT, Google OAuth)
+- Data pipelines, web scraping & cron automation
+- Cloud deployment (Vercel, Render, Cloudinary)
+- Performance-focused frontend engineering (React + Vite + TailwindCSS)
+
+
+## Tech Stack
+
+```
+Languages    JavaScript (ES6+) · TypeScript
+Frontend     React.js · Vite · TailwindCSS · TanStack Query · Framer Motion
+Backend      Node.js · Express.js · REST APIs
+Databases    PostgreSQL · Drizzle ORM · Neon (serverless)
+Auth         JWT · Google OAuth · bcryptjs
+Cloud        Vercel · Render · Cloudinary
+Tooling      Git · GitHub · VS Code · Playwright · Cheerio · Cron jobs
+```
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulrasheeda-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/abdulrasheeda)
+[![GitHub](https://img.shields.io/badge/GitHub-bigphysiology--coder-181717?style=flat&logo=github)](https://github.com/bigphysiology-coder)
+[![Email](https://img.shields.io/badge/Email-abdulrasheedabdulrazak4@gmail.com-EA4335?style=flat&logo=gmail)](mailto:bigphysiology@gmail.com)
