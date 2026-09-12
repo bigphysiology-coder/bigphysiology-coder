@@ -1,6 +1,6 @@
 # Hey, I'm Abdulrasheed 👋
 
-**A Full Stack Software Engineer,** I build production-grade web applications from architecture to deployment.  
+**A Software Engineer,** I build production-grade web applications from architecture to deployment.  
 Based in Nigeria · Open to Remote · Available for freelance & contracts
 
 
