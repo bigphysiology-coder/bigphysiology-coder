@@ -1,4 +1,4 @@
-# Hey, I'm Abdulrasheed 👋
+# Hey, I am Rasheed 👋
 
 **A Software Engineer,** I build production-grade web applications from architecture to deployment.  
 Based in Nigeria · Open to Remote · Available for freelance & contracts
